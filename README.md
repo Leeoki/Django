@@ -36,3 +36,4 @@ pip install -r  requirements\dev.txt
 cd lyceum
 python manage.py runserver
 ```
+
